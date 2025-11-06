@@ -10,7 +10,7 @@ network fees and not conflict with any existing program on the network
 3. Change the "program" field in the program.json file to match the name of your new program
 ====================================================================================================================  */
 
-program birtnamebirtname.aleo {
+program birtnamebirtname2.aleo {
     mapping balances: address => u64;  // On-chain mapping between user addresses and public token balances
 
     record Token {
